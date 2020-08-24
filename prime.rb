@@ -1,2 +1,3 @@
 def prime?(n)
+  
 end
