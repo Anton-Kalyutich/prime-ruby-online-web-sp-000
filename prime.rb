@@ -1,3 +1,3 @@
 def prime?(n)
-  (0...n).to_a
+  (0...n).to_a.map
 end
