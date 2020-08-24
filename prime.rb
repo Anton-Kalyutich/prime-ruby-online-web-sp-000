@@ -1,2 +1,2 @@
-def prime?(num)
+def prime?(n)
 end
